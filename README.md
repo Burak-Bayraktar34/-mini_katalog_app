@@ -29,15 +29,13 @@ The application displays a list of products in a catalog format and allows users
 
 ---
 
-## Flutter Version
+## Flutter and Dart Versions
 
 This project was developed using:
 
-Flutter 3.41.4 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision ff37bef603 (13 days ago) 
-Engine • revision e4b8dca3f1 
-Tools • Dart 3.11.1 • DevTools 2.54.1
-Target platform: Android (Baklava 16.0 ,tested on Android Studio) 
+**Flutter SDK** 3.41.4  channel stable 
+**Engine** revision e4b8dca3f1 
+**Target platform** Android (Baklava 16.0 ,tested on Android Studio) 
 
 ---
 
