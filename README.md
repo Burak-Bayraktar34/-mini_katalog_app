@@ -74,11 +74,11 @@ These resources do not represent a real e-commerce platform and are used only to
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### Product Detail Screen
 
-![Detail](screenshots/detail.png)
+![Detail](screenshots/Detail.png)
 
 ---
 
