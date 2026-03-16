@@ -13,8 +13,3 @@ A simple Flutter catalog application developed for educational purposes.
 ## Flutter Version
 Flutter 3.x
 
-## How to Run
-
-```bash
-flutter pub get
-flutter run
